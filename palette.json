@@ -1,0 +1,10 @@
+{
+    "minecraft:air"               : " ",
+    "minecraft:yellow_wool"       : "Y",
+    "minecraft:white_wool"        : "W",
+    "minecraft:red_wool"          : "R",
+    "minecraft:cyan_wool"         : "C",
+    "minecraft:light_gray_wool"   : "G",
+    "minecraft:magenta_wool"      : "M",
+    "minecraft:brown_wool"        : "B"
+}
